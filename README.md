@@ -1,8 +1,15 @@
 # PhpStorm Code Completion to CodeIgniter + HMVC
 
+Fixed code complemention for use MY_Controller & MY_Model.  Also solved issue https://github.com/natanfelles/codeigniter-phpstorm/issues/9
+
 Working perfectly with CodeIgniter 3.*
 
 ### How to use it:
+
+1. composer require muraveiko/codeigniter-phpstorm --dev
+2 & 3 analogue original 
+
+### How to use it (original):
 
 1. Drop the **phpstorm.php** file into your CI project root then PhpStorm will index it.
 2. Go to *system/core/* folder.
