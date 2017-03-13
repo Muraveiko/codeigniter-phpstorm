@@ -1,6 +1,7 @@
 # PhpStorm Code Completion to CodeIgniter + HMVC
 
-Fixed code complemention for use MY_Controller & MY_Model.  Also solved issue https://github.com/natanfelles/codeigniter-phpstorm/issues/9
+Fixed code complemention for use MY_Controller & MY_Model.  
+Also solved issue https://github.com/natanfelles/codeigniter-phpstorm/issues/9
 
 Working perfectly with CodeIgniter 3.*
 
