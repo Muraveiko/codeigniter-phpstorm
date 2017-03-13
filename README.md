@@ -8,7 +8,7 @@ Working perfectly with CodeIgniter 3.*
 ### How to use it:
 
 1. composer require muraveiko/codeigniter-phpstorm --dev
-2 & 3 analogue original 
+2. & 3. analogue original 
 
 ### How to use it (original):
 
