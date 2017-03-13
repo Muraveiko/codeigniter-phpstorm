@@ -1,0 +1,19 @@
+{
+  "name": "muraveiko/codeigniter-phpstorm",
+  "description": "PhpStorm Code Completion to CodeIgniter + HMVC",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Natan Felles"
+    },
+    {
+      "name": "Oleg Muraveyko",
+      "email": "oleg@muraveyko.ru"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.0.1-dev"
+    }
+  }
+}
